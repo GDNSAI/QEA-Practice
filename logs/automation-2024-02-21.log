@@ -1,0 +1,59 @@
+22:19:50.851 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:19:51.612 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:19:51.871 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:19:51.872 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:19:52.594 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:21:01.371 [main] INFO  testCases.TC_001_AccountRegistrat1 - ****Start of Account Registration***
+22:21:01.470 [main] INFO  testCases.TC_001_AccountRegistrat1 - Click on Registration Page
+22:21:02.699 [main] INFO  testCases.TC_001_AccountRegistrat1 - Account registration Processes
+22:21:18.716 [main] INFO  testCases.Tc_002_LoginTest1 - ******Start of the Login Test******
+22:21:18.717 [main] INFO  testCases.Tc_002_LoginTest1 - Click in login
+22:21:22.406 [main] INFO  testCases.Tc_002_LoginTest1 - Login process....
+22:21:45.735 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:21:45.738 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:21:47.182 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:21:57.973 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:21:57.974 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:21:58.849 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:22:10.485 [main] INFO  testCases.TC_003_LogiDataDriven - ***Finished datadriven test cases***
+22:22:10.493 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:22:10.494 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:22:11.285 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:22:22.660 [main] INFO  testCases.TC_003_LogiDataDriven - ***Finished datadriven test cases***
+22:22:22.667 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:22:22.668 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:22:23.493 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:22:34.969 [main] INFO  testCases.TC_003_LogiDataDriven - ***Finished datadriven test cases***
+22:22:34.978 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:22:34.979 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:22:35.803 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:24:31.629 [main] INFO  testCases.TC_001_AccountRegistrat1 - ****Start of Account Registration***
+22:24:31.693 [main] INFO  testCases.TC_001_AccountRegistrat1 - Click on Registration Page
+22:24:33.385 [main] INFO  testCases.TC_001_AccountRegistrat1 - Account registration Processes
+22:24:49.159 [main] INFO  testCases.Tc_002_LoginTest1 - ******Start of the Login Test******
+22:24:49.160 [main] INFO  testCases.Tc_002_LoginTest1 - Click in login
+22:24:51.129 [main] INFO  testCases.Tc_002_LoginTest1 - Login process....
+22:25:09.723 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:25:09.726 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:25:11.481 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:25:22.261 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:25:22.262 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:25:23.278 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:25:34.874 [main] INFO  testCases.TC_003_LogiDataDriven - ***Finished datadriven test cases***
+22:25:34.881 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:25:34.882 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:25:35.700 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:25:47.243 [main] INFO  testCases.TC_003_LogiDataDriven - ***Finished datadriven test cases***
+22:25:47.248 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:25:47.249 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:25:48.001 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:25:59.293 [main] INFO  testCases.TC_003_LogiDataDriven - ***Finished datadriven test cases***
+22:25:59.299 [main] INFO  testCases.TC_003_LogiDataDriven - ***Start of login verif****
+22:25:59.299 [main] INFO  testCases.TC_003_LogiDataDriven - Click in login
+22:26:00.069 [main] INFO  testCases.TC_003_LogiDataDriven - Login process....
+22:38:32.975 [main] INFO  testCases.TC_001_AccountRegistrat1 - ****Start of Account Registration***
+22:38:33.024 [main] INFO  testCases.TC_001_AccountRegistrat1 - Click on Registration Page
+22:38:34.690 [main] INFO  testCases.TC_001_AccountRegistrat1 - Account registration Processes
+22:38:47.424 [main] INFO  testCases.Tc_002_LoginTest1 - ******Start of the Login Test******
+22:38:47.424 [main] INFO  testCases.Tc_002_LoginTest1 - Click in login
+22:38:48.428 [main] INFO  testCases.Tc_002_LoginTest1 - Login process....
